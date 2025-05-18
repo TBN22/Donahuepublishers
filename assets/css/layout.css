@@ -17898,3 +17898,12 @@ table {
     border-collapse: collapse;
     border-spacing: 0;
 }
+html, body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+footer, section {
+    margin-bottom: 0;
+}
